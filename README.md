@@ -1,5 +1,3 @@
-William Mattingly, PhD
-
 # Current Projects
 
 ## [Python Tutorials for Digital Humanities](www.pythonhumanities.com)
