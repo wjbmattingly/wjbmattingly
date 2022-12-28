@@ -2,10 +2,6 @@
 
 <table border="0">
  <tr>
-    <td>[Python Tutorials for Digital Humanities](www.pythonhumanities.com)</td>
-    <td>This is a digital project designed to help humanists and non-programmers learn to code in Python. Videos can be found on the YouTube channel [Python Tutorials for Digital Humanities](youtube.com/@python-programming)</td>
- </tr>
- <tr>
     <td><img src=https://yt3.ggpht.com/ytc/AMLnZu8FTr94PPWte0tSzJTJhhbC7fQKF-3PvEqXzgDEaA=s900-c-k-c0x00ffffff-no-rj></td>
     <td><h2><a href=href=www.youtube.com/pythontutorialsfordigitalhumanities>Python Tutorials for DH</a></h2><br>This is a digital project designed to help humanists and non-programmers learn to code in Python.</td>
  </tr>
