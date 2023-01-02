@@ -1,12 +1,5 @@
 # Current Projects
 
-<style>
-table, tr, td, th{
-padding: 10px;
-margin: auto;
-border-style : hidden!important;
-}
-</style>
 <table rules=none>
  <tr>
     <td> <img src="https://yt3.ggpht.com/ytc/AMLnZu8FTr94PPWte0tSzJTJhhbC7fQKF-3PvEqXzgDEaA=s900-c-k-c0x00ffffff-no-rj"></td>
