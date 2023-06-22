@@ -16,47 +16,36 @@ As a researcher, I am passionate about exploring Natural Language Processing (NL
 - Digital Humanities
 - Data Science and History
 
-## Projects Portfolio
+## Projects
 
-<div style="display:flex; justify-content:start; align-items:center; margin-bottom:20px;">
-  <img src="https://yt3.ggpht.com/ytc/AMLnZu8FTr94PPWte0tSzJTJhhbC7fQKF-3PvEqXzgDEaA=s900-c-k-c0x00ffffff-no-rj" alt="Python Tutorials for DH" width="80px" style="margin-right:20px;">
-  <div>
-    <h3><a href="https://www.youtube.com/pythontutorialsfordigitalhumanities">Python Tutorials for DH</a></h3>
-    <p>A digital project designed to help humanists and non-programmers learn to code in Python.</p>
-  </div>
-</div>
+Here are some of the key projects that I've been working on. Click on each project name to learn more about it.
 
-<div style="display:flex; justify-content:start; align-items:center; margin-bottom:20px;">
-  <img src="https://github.com/wjbmattingly/vulgata-spacy/raw/main/images/logo.png" alt="Vulgata spaCy" width="80px" style="margin-right:20px;">
-  <div>
-    <h3><a href="https://github.com/wjbmattingly/vulgata-spacy">Vulgata spaCy</a></h3>
-    <p>A library built upon spaCy to automate the identification and extraction of potential Biblical quotes in medieval Latin texts.</p>
-  </div>
-</div>
+### [Python Tutorials for DH](https://www.youtube.com/pythontutorialsfordigitalhumanities)
+<img src="https://yt3.ggpht.com/ytc/AMLnZu8FTr94PPWte0tSzJTJhhbC7fQKF-3PvEqXzgDEaA=s900-c-k-c0x00ffffff-no-rj" alt="Python Tutorials for DH" height="100px">
 
-<div style="display:flex; justify-content:start; align-items:center; margin-bottom:20px;">
-  <img src="https://github.com/wjbmattingly/streamlit-pandas/raw/main/images/streamlit-pandas-logo-blue.png" alt="Streamlit Pandas" width="80px" style="margin-right:20px;">
-  <div>
-    <h3><a href="https://github.com/wjbmattingly/streamlit-pandas">Streamlit Pandas</a></h3>
-    <p>A Streamlit component that allows users to easily create Pandas DataFrame query applications in Streamlit with just a few lines of Python.</p>
-  </div>
-</div>
+This is a digital project designed to help humanists and non-programmers learn to code in Python.
 
-<div style="display:flex; justify-content:start; align-items:center; margin-bottom:20px;">
-  <img src="https://github.com/wjbmattingly/LeetTopic/raw/main/images/LeeTopic.png" alt="LeetTopic" width="80px" style="margin-right:20px;">
-  <div>
-    <h3><a href="https://github.com/wjbmattingly/leet-topic">LeetTopic</a></h3>
-    <p>A Python library for doing transformer-based topic modeling. It also generates a stand-alone HTML application for analyzing a topic model.</p>
-  </div>
-</div>
+### [Vulgata spaCy](https://github.com/wjbmattingly/vulgata-spacy)
+<img src="https://github.com/wjbmattingly/vulgata-spacy/raw/main/images/logo.png" alt="Vulgata spaCy" height="100px">
 
-<div style="display:flex; justify-content:start; align-items:center; margin-bottom:20px;">
-  <img src="https://github.com/wjbmattingly/biospacy/raw/main/images/biospacy-logo.png" alt="BioSpaCy" width="80px" style="margin-right:20px;">
-  <div>
-    <h3><a href="https://github.com/wjbmattingly/biospacy">BioSpaCy</a></h3>
-    <p>A spacy pipeline for processing biology texts. Currently, the pipeline can identify taxonomic data within unstructured texts.</p>
-  </div>
-</div>
+A library built upon spaCy to automate the identification and extraction of potential Biblical quotes in medieval Latin texts.
+
+### [Streamlit Pandas](https://github.com/wjbmattingly/streamlit-pandas)
+<img src="https://github.com/wjbmattingly/streamlit-pandas/raw/main/images/streamlit-pandas-logo-blue.png" alt="Streamlit Pandas" height="100px">
+
+A Streamlit component that allows users to easily create Pandas DataFrame query applications in Streamlit with just a few lines of Python.
+
+### [LeetTopic](https://github.com/wjbmattingly/leet-topic)
+<img src="https://github.com/wjbmattingly/LeetTopic/raw/main/images/LeeTopic.png" alt="LeetTopic" height="100px">
+
+A Python library for doing transformer-based topic modeling. It also generates a stand-alone HTML application for analyzing a topic model.
+
+### [BioSpaCy](https://github.com/wjbmattingly/biospacy)
+<img src="https://github.com/wjbmattingly/biospacy/raw/main/images/biospacy-logo.png" alt="BioSpaCy" height="100px">
+
+A spacy pipeline for processing biology texts. Currently, the pipeline can identify taxonomic data within unstructured texts.
+
+Remember, this will set the height of all images to be the same, but depending on the original aspect ratio of each image, this may make some images appear stretched or squashed.
 
 
 
