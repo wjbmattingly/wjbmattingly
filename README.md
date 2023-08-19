@@ -45,9 +45,6 @@ A Python library for doing transformer-based topic modeling. It also generates a
 
 A spacy pipeline for processing biology texts. Currently, the pipeline can identify taxonomic data within unstructured texts.
 
-Remember, this will set the height of all images to be the same, but depending on the original aspect ratio of each image, this may make some images appear stretched or squashed.
-
-
 
 ## Publications
 
