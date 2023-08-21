@@ -2,8 +2,7 @@
 
 📕 Introduction  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Postdoctoral Fellow, Smithsonian Data Science Lab  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Specializing in history, AI, and NLP, with a focus on archival documents.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Passionate about NLP for ancient and medieval languages.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Specializing in history, AI, and NLP, with a focus on archival documents.   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| [LinkedIn](https://www.linkedin.com/in/wjbmattingly/) | [Twitter](https://twitter.com/wjb_mattingly)  
 
 📙 Projects  
