@@ -10,7 +10,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 📖 [Vulgata spaCy](https://github.com/wjbmattingly/vulgata-spacy) - Identifying Biblical quotes in Latin texts.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 🐼 [Streamlit Pandas](https://github.com/wjbmattingly/streamlit-pandas) - Pandas DataFrame query applications.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 📊 [LeetTopic](https://github.com/wjbmattingly/leet-topic) - Transformer-based topic modeling.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 🧬 [BioSpaCy](https://github.com/wjbmattingly/biospacy) - Processing biology texts for taxonomic data.  
+&nbsp;&nbsp;&nbsp;| ⚖️ [Gender spaCy](https://github.com/sidatasciencelab/gender-spacy) - A heuristic and machine learning pipeline for identifying gender of PERSON entities.  
+&nbsp;&nbsp;&nbsp;| 🧬 [BioSpaCy](https://github.com/wjbmattingly/biospacy) - Processing biology texts for taxonomic data.  
+&nbsp;&nbsp;&nbsp;| 🌍 [WW2 spaCy](https://github.com/wjbmattingly/ww2-spacy) - Identify entities specific to WW2.  
 
 📗 Publications  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 📖 [Introduction to Python for Humanists](https://www.routledge.com/Introduction-to-Python-for-Humanists/Mattingly/p/book/9781032378374)  
