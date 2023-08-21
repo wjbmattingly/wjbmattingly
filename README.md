@@ -1,4 +1,4 @@
-📚 William Mattingly, PhD
+📚 William Mattingly, PhD's Virtual Bookshelf
 
 📕 Introduction  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Postdoctoral Fellow, Smithsonian Data Science Lab  
