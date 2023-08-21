@@ -1,7 +1,7 @@
 📚 William Mattingly, PhD
 
 📕 Introduction  
-   | Postdoctoral Fellow, Smithsonian Data Science Lab  
+&nbsp;&nbsp;&nbsp;| Postdoctoral Fellow, Smithsonian Data Science Lab  
    | Specializing in history, AI, and NLP, with a focus on archival documents.  
    | Passionate about NLP for ancient and medieval languages.  
    | [LinkedIn](https://www.linkedin.com/in/wjbmattingly/) | [Twitter](https://twitter.com/wjb_mattingly)  
