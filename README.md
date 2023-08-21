@@ -21,7 +21,7 @@
 &nbsp;&nbsp;&nbsp;| 📊 [LeetTopic](https://github.com/wjbmattingly/leet-topic) - Transformer-based topic modeling.  
 &nbsp;&nbsp;&nbsp;| 🧬 [BioSpaCy](https://github.com/wjbmattingly/biospacy) - Processing biology texts for taxonomic data.  
 
-📗 Publications
+📗 Publications  
 &nbsp;&nbsp;&nbsp;| 📖 [Introduction to Python for Humanists](https://www.routledge.com/Introduction-to-Python-for-Humanists/Mattingly/p/book/9781032378374)  
 &nbsp;&nbsp;&nbsp;| 🧪 [Let the Records Show: Attribution of Scientific Credit](https://www.journals.uchicago.edu/doi/10.1086/724949)  
 &nbsp;&nbsp;&nbsp;| 🏛️ [The Classical Language Toolkit: An NLP Framework](https://aclanthology.org/2021.acl-demo.3.pdf)  
