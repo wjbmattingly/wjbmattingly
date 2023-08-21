@@ -1,7 +1,7 @@
 📚 William Mattingly, PhD
 
 📕 Introduction  
-&nbsp;&nbsp;&nbsp;| Postdoctoral Fellow, Smithsonian Data Science Lab  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Postdoctoral Fellow, Smithsonian Data Science Lab  
 &nbsp;&nbsp;&nbsp;| Specializing in history, AI, and NLP, with a focus on archival documents.  
 &nbsp;&nbsp;&nbsp;| Passionate about NLP for ancient and medieval languages.  
 &nbsp;&nbsp;&nbsp;| [LinkedIn](https://www.linkedin.com/in/wjbmattingly/) | [Twitter](https://twitter.com/wjb_mattingly)  
@@ -14,7 +14,7 @@
 &nbsp;&nbsp;&nbsp;| Data Science and History  
 
 
-📙 Projects
+📙 Projects  
 &nbsp;&nbsp;&nbsp;| 🐍 [Python Tutorials for DH](https://www.youtube.com/pythontutorialsfordigitalhumanities) - Python coding for humanists.  
 &nbsp;&nbsp;&nbsp;| 📖 [Vulgata spaCy](https://github.com/wjbmattingly/vulgata-spacy) - Identifying Biblical quotes in Latin texts.  
 &nbsp;&nbsp;&nbsp;| 🐼 [Streamlit Pandas](https://github.com/wjbmattingly/streamlit-pandas) - Pandas DataFrame query applications.  
