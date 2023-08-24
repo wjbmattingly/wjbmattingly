@@ -1,5 +1,3 @@
----
-
 **William Mattingly, PhD's Virtual Bookshelf**
 
 ---
