@@ -13,7 +13,7 @@
 
 | **Name** | **Description** | **GitHub Stars** | **PyPi** |
 |----------|-----------------|------------------|---------|
-| 🐍 [Python Tutorials for DH](https://www.youtube.com/pythontutorialsfordigitalhumanities) | Python coding for humanists. | ![Stars](https://img.shields.io/github/stars/wjbmattingly/python_for_dh) | ![PyPi](https://img.shields.io/pypi/v/pythontutorialsfordh) |
+| 🐍 [Python Tutorials for DH](https://www.youtube.com/pythontutorialsfordigitalhumanities) | Python coding for humanists. | ![Stars](https://img.shields.io/github/stars/wjbmattingly/python_for_dh) |  |
 | 🧬 [DNA spaCy](https://github.com/sidatasciencelab/dna-spacy) | Processing DNA inside of spaCy. | ![Stars](https://img.shields.io/github/stars/sidatasciencelab/dna-spacy) | ![PyPi](https://img.shields.io/pypi/v/dna-spacy) |
 | 📖 [Vulgata spaCy](https://github.com/wjbmattingly/vulgata-spacy) | Identifying Biblical quotes in Latin texts. | ![Stars](https://img.shields.io/github/stars/wjbmattingly/vulgata-spacy) | ![PyPi](https://img.shields.io/pypi/v/vulgata-spacy) |
 | 🐼 [Streamlit Pandas](https://github.com/wjbmattingly/streamlit-pandas) | Pandas DataFrame query applications. | ![Stars](https://img.shields.io/github/stars/wjbmattingly/streamlit-pandas) | ![PyPi](https://img.shields.io/pypi/v/streamlit-pandas) |
