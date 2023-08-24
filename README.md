@@ -24,14 +24,6 @@
 
 ---
 
-Please note:
-
-1. The URLs for the shields are based on the provided repository names. Ensure that the repository names are accurate.
-2. The PyPi shield URLs are also based on the given repository names, assuming that the package names on PyPi are the same as the repository names. Adjust if needed.
-3. The shield data will only show if the repositories and packages actually exist at those URLs, and if the repositories are public. The placeholders will need to be replaced with actual URLs if they differ from the given examples.
-
----
-
 **📗 Publications**  
 - 📖 [Introduction to Python for Humanists](https://www.routledge.com/Introduction-to-Python-for-Humanists/Mattingly/p/book/9781032378374)
 - 🧪 [Let the Records Show: Attribution of Scientific Credit](https://www.journals.uchicago.edu/doi/10.1086/724949)
