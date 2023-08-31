@@ -21,6 +21,7 @@
 | ⚖️ [Gender spaCy](https://github.com/sidatasciencelab/gender-spacy) | A pipeline for identifying gender of PERSON entities. | ![Stars](https://img.shields.io/github/stars/sidatasciencelab/gender-spacy) | ![PyPi](https://img.shields.io/pypi/v/gender-spacy) |
 | 🧬 [BioSpaCy](https://github.com/wjbmattingly/biospacy) | Processing biology texts for taxonomic data. | ![Stars](https://img.shields.io/github/stars/wjbmattingly/biospacy) | ![PyPi](https://img.shields.io/pypi/v/en_biospacy) |
 | 🌍 [WW2 spaCy](https://github.com/wjbmattingly/ww2-spacy) | Identify entities specific to WW2. | ![Stars](https://img.shields.io/github/stars/wjbmattingly/ww2-spacy) | ![PyPi](https://img.shields.io/pypi/v/en_ww2spacy) |
+| 💽 [Weaviate Filter](https://github.com/weaviate/weaviate-filter) | A Weaviate filter for various entities. | ![Stars](https://img.shields.io/github/stars/wjbmattingly/weaviate-filter) | ![PyPi](https://img.shields.io/pypi/v/weaviate-filter) | ![Database](https://img.shields.io/badge/database-weaviate-brightgreen) |
 
 ---
 
