@@ -46,5 +46,3 @@
 - **Twitter:** [`@wjb_mattingly`](https://twitter.com/wjb_mattingly)
 
 ---
-
-This structure uses a combination of headers, bullet points, and horizontal lines to segment information, making it easy to scan. If this was on a website or digital platform, you could also incorporate interactive elements, hover effects, or even images for a more immersive user experience.
